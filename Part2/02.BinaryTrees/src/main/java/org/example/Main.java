@@ -26,7 +26,7 @@ public class Main {
 //        for (var item : list) {
 //            System.out.println(item);
 //        }
-        tree.traverseLevelOrder();
+//        tree.traverseLevelOrder();
 
 //        Tree tree2 = new Tree();
 //        tree2.insert(7);
@@ -39,7 +39,7 @@ public class Main {
 //        System.out.println(tree.equals(tree2));
 
         // Factorial
-//        System.out.println(factorial(0));
+//        System.out.println(factorial(4));
     }
 
     // Factorial - loop
