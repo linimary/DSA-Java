@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1404756e-b94b-40b5-9860-81b889fe57c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PriorityQueueWithHeap.java" afterDir="false" />
-    </list>
+    <list default="true" id="1404756e-b94b-40b5-9860-81b889fe57c8" name="Changes" comment="04.Heaps" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,8 +72,17 @@
       <workItem from="1715633017612" duration="21000" />
       <workItem from="1715633078613" duration="572000" />
       <workItem from="1715794997204" duration="609000" />
-      <workItem from="1716210210492" duration="5709000" />
+      <workItem from="1716210210492" duration="6198000" />
     </task>
+    <task id="LOCAL-00001" summary="04.Heaps">
+      <option name="closed" value="true" />
+      <created>1716216443298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716216443298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="04.Heaps" />
+    <option name="LAST_COMMIT_MESSAGE" value="04.Heaps" />
   </component>
 </project>
